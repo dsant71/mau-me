@@ -15,6 +15,6 @@
 
 <h3 align="left">Minhas Redes Sociais:</h3>
 <p align="left">
-<div><a href="http://instagram.com/olaf_mau/"><img style="margin:5px" height= "30em" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"></a></div>
+<div><a href="http://instagram.com/dsant_71/"><img style="margin:5px" height= "30em" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"></a></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mau-me&label=Profile%20views&color=0e75b6&style=flat" alt="mau-me" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsant_71&label=Profile%20views&color=0e75b6&style=flat" alt="mau-me" /> </p>
